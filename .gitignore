@@ -3,3 +3,7 @@
 target/
 *.swp
 *.tmp
+.bloop
+.metals
+.vscode
+metals.sbt
